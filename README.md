@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-  <img src="gif/popcat.gif" width="300" alt="Popcat"/>
+  <img src="gif/m.gif" width="150" alt="Cat"/>
 </p>
 
 <p align="center">
@@ -10,34 +10,57 @@
 
 <br>
 
-# NedoModules
+<h1 align="center">NedoModules</h1>
 
-A collection of custom modules for Hikka, Heroku, and GeekTG userbots.
+<p align="center">
+  <i>A collection of custom modules for Hikka, Heroku, and GeekTG userbots.</i>
+</p>
+
+<br>
 
 ## 📋 Overview
-This repository contains self-written modules for userbots.  
+<p align="center">
+This repository contains self-written modules for userbots.<br>
 I made them for myself, sharing as-is.
+</p>
 
-**Disclaimer:**  
-- Some modules are stable, some are experimental.  
+<p align="center">
+<b>Disclaimer:</b><br>
+- Some modules are stable, some are experimental.<br>
 - If something breaks — congratulations, you're now a beta tester.
+</p>
 
 ## ⚠️ Notes
-- Modules may depend on specific userbot features  
-- Backward compatibility is not guaranteed  
+<p align="center">
+- Modules may depend on specific userbot features<br>
+- Backward compatibility is not guaranteed<br>
 - Expect breaking changes (I'm learning, it happens)
+</p>
 
-# 📦 Available Modules
-## *NeuralChat [BETA]*
->Universal AI chat module with API support (OpenAI, Claude, Gemini, local models). 
->Features streaming, file analysis, code generation, and customizable prompts.
+<br>
+
+## 📦 Available Modules
+
+<h3 align="center">NeuralChat [BETA]</h3>
+
+<p align="center">
+Universal AI chat module with API support (OpenAI, Claude, Gemini, local models).<br>
+Features streaming, file analysis, code generation, and customizable prompts.
+</p>
+
 ### 🛠 Installation
-```Heroku
-.dlm https://raw.githubusercontent.com/Nedomyzekant/NedoModules/main/MODULE_NAME.py
-```
-other idk lol ᘛ⁐̤ᕐᐷ
+<p align="center">
+<code>.dlm https://raw.githubusercontent.com/Nedomyzekant/NedoModules/main/NeuralChat.py</code>
+</p>
 
-# 🤝 Contributing
+<p align="center">
+<small>other idk lol ᘛ⁐̤ᕐᐷ</small>
+</p>
 
-Pull requests are welcome if you know what you're doing.
+<br>
+
+## 🤝 Contributing
+<p align="center">
+Pull requests are welcome if you know what you're doing.<br>
 Garbage PRs will be ignored or closed without explanation.
+</p>
