@@ -23,7 +23,7 @@ I made them for myself, sharing as-is.
 ```Heroku
 .dlm https://raw.githubusercontent.com/Nedomyzekant/NedoModules/main/MODULE_NAME.py
 ```
-other idk lol
+other idk lol ᘛ⁐̤ᕐᐷ
 
 # 🤝 Contributing
 
