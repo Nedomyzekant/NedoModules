@@ -24,7 +24,7 @@ I made them for myself, sharing as-is.
 .dlm https://raw.githubusercontent.com/Nedomyzekant/NedoModules/main/MODULE_NAME.py
 ```
 other idk lol
-##🤝 Contributing
+#🤝 Contributing
 
 Pull requests are welcome if you know what you're doing.
 Garbage PRs will be ignored or closed without explanation.
