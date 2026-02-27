@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-  <img src="images/popcat.gif" width="300" alt="Popcat"/>
+  <img src="gif/popcat.gif" width="300" alt="Popcat"/>
 </p>
 
 <p align="center">
