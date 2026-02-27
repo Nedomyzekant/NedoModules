@@ -19,7 +19,7 @@ logger = logging.getLogger(__name__)
 @loader.tds
 class NeuralChatMod(loader.Module):
     strings = {
-        "name": "NeuralChat",
+        "name": "NeuralChat [BETA]",
         "no_args": "<b>Введите запрос!</b>",
         "no_reply": " <b>Ответьте на сообщение для контекста!</b>",
         "no_api_config": " <b>Сначала настройте API!</b>\nИспользуйте: .nset key &lt;ключ&gt;, .nset url &lt;url&gt;, .nset model &lt;модель&gt;",
