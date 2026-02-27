@@ -25,7 +25,7 @@ I made them for myself, sharing as-is.
 ```
 other idk lol
 
-#🤝 Contributing
+##🤝 Contributing
 
 Pull requests are welcome if you know what you're doing.
 Garbage PRs will be ignored or closed without explanation.
