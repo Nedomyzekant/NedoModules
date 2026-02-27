@@ -1,15 +1,13 @@
 <br>
-<br>
 
 <p align="center">
-  <img src="https://media.tenor.com/b33JmetL1h4AAAAi/sleeping-cat.gif" width="300" alt="Sleeping pixel cat"/>
+  <img src="images/popcat.gif" width="300" alt="Popcat"/>
 </p>
 
 <p align="center">
-  <i>Cat.</i>
+  <b><i>Cat suka blyat</i></b> 🐱
 </p>
 
-<br>
 <br>
 
 # NedoModules
