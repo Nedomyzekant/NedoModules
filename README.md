@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img src="https://tenor.com/b33JmetL1h4.gif" width="300" alt="Sleeping pixel cat"/>
+  <img src="https://media.tenor.com/b33JmetL1h4AAAAi/sleeping-cat.gif" width="300" alt="Sleeping pixel cat"/>
 </p>
 
 <p align="center">
