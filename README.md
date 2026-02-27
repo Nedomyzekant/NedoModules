@@ -30,36 +30,27 @@ I made them for myself, sharing as-is.
 </p>
 
 ## ⚠️ Notes
-<p align="center">
 - Modules may depend on specific userbot features<br>
 - Backward compatibility is not guaranteed<br>
 - Expect breaking changes (I'm learning, it happens)
-</p>
 
 <br>
 
 ## 📦 Available Modules
 
-<h3 align="center">NeuralChat [BETA]</h3>
+### NeuralChat [BETA]
 
-<p align="center">
-Universal AI chat module with API support (OpenAI, Claude, Gemini, local models).<br>
-Features streaming, file analysis, code generation, and customizable prompts.
-</p>
+>Universal AI chat module with API support (OpenAI, Claude, Gemini, local models).<br>
+>Features streaming, file analysis, code generation, and customizable prompts.
 
 ### 🛠 Installation
-<p align="center">
-<code>.dlm https://raw.githubusercontent.com/Nedomyzekant/NedoModules/main/NeuralChat.py</code>
-</p>
-
-<p align="center">
+```Heroku
+.dlm https://raw.githubusercontent.com/Nedomyzekant/NedoModules/main/NeuralChat.py
+```
 <small>other idk lol ᘛ⁐̤ᕐᐷ</small>
-</p>
 
 <br>
 
 ## 🤝 Contributing
-<p align="center">
 Pull requests are welcome if you know what you're doing.<br>
 Garbage PRs will be ignored or closed without explanation.
-</p>
