@@ -1,11 +1,10 @@
 <br>
 
 <p align="center">
-  <img src="gif/m.gif" width="150" alt="Cat"/>
+  <img src="gif/mm.gif" width="150" alt="Cat"/>
 </p>
 
 <p align="center">
-  <b><i>Cat suka blyat</i></b> 🐱
 </p>
 
 <br>
