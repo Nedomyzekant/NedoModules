@@ -16,7 +16,7 @@ I made them for myself, sharing as-is.
 - Expect breaking changes (I'm learning, it happens)
 
 # 📦 Available Modules
-##*NeuralChat [BETA]*
+## *NeuralChat [BETA]*
 >Universal AI chat module with API support (OpenAI, Claude, Gemini, local models). 
 >Features streaming, file analysis, code generation, and customizable prompts.
 ### 🛠 Installation
@@ -25,7 +25,7 @@ I made them for myself, sharing as-is.
 ```
 other idk lol
 
-##🤝 Contributing
+# 🤝 Contributing
 
 Pull requests are welcome if you know what you're doing.
 Garbage PRs will be ignored or closed without explanation.
