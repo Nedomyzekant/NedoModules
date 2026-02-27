@@ -34,12 +34,14 @@ I made them for myself, sharing as-is.
 
 ## 📦 Available Modules
 
-### NeuralChat [BETA]
-
+### <b>NeuralChat [BETA]</b>
 >Universal AI chat module with API support (OpenAI, Claude, Gemini, local models).<br>
 >Features streaming, file analysis, code generation, and customizable prompts.
 
-### 🛠 Installation
+### <b>YouDownloader V2.2.6</b>
+>Just download YouTube video from bot, I'm lazy
+>(there's a lot of bugs btw)
+## 🛠 Installation
 ```Heroku
 .dlm https://raw.githubusercontent.com/Nedomyzekant/NedoModules/main/NeuralChat.py
 ```
