@@ -12,22 +12,18 @@
 <h1 align="center">NedoModules</h1>
 
 <p align="center">
-  <i>A collection of custom modules for Hikka, Heroku, and GeekTG userbots.</i>
+  <i>A collection of custom modules for Hikka and Heroku userbots.</i>
 </p>
 
 <br>
 
 ## 📋 Overview
-<p align="center">
 This repository contains self-written modules for userbots.<br>
 I made them for myself, sharing as-is.
-</p>
 
-<p align="center">
-<b>Disclaimer:</b><br>
+<b>Disclaimer:</b>
 - Some modules are stable, some are experimental.<br>
 - If something breaks — congratulations, you're now a beta tester.
-</p>
 
 ## ⚠️ Notes
 - Modules may depend on specific userbot features<br>
