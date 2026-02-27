@@ -1,3 +1,17 @@
+<br>
+<br>
+
+<p align="center">
+  <img src="https://tenor.com/b33JmetL1h4.gif" width="300" alt="Sleeping pixel cat"/>
+</p>
+
+<p align="center">
+  <i>Cat.</i>
+</p>
+
+<br>
+<br>
+
 # NedoModules
 
 A collection of custom modules for Hikka, Heroku, and GeekTG userbots.
