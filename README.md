@@ -16,16 +16,16 @@ I made them for myself, sharing as-is.
 - Expect breaking changes (I'm learning, it happens)
 
 # 📦 Available Modules
-##*NeuralChat [BETA]*
+## *NeuralChat [BETA]*
 >Universal AI chat module with API support (OpenAI, Claude, Gemini, local models). 
 >Features streaming, file analysis, code generation, and customizable prompts.
 ### 🛠 Installation
 ```Heroku
 .dlm https://raw.githubusercontent.com/Nedomyzekant/NedoModules/main/MODULE_NAME.py
 ```
-other idk lol
+other idk lol ᘛ⁐̤ᕐᐷ
 
-#🤝 Contributing
+# 🤝 Contributing
 
 Pull requests are welcome if you know what you're doing.
 Garbage PRs will be ignored or closed without explanation.
