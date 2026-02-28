@@ -39,11 +39,13 @@ I made them for myself, sharing as-is.
 >Features streaming, file analysis, code generation, and customizable prompts.
 
 ### <b>YouDownloader V2.2.6</b>
->Just download YouTube video in any chat from @SaveYoutubeBot, I'm lazy\n
+>Just download YouTube video in any chat from @SaveYoutubeBot, I'm lazy
+
 >(there's a lot of bugs btw)
 
 ### <b>MusicBot V5.4.1</b>
->Download music in any chat with @mus_vir_bot\n
+>Download music in any chat with @mus_vir_bot
+
 >Has many bugs with music select⚠️
 
 ## 🛠 Installation
