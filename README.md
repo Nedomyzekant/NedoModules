@@ -39,8 +39,13 @@ I made them for myself, sharing as-is.
 >Features streaming, file analysis, code generation, and customizable prompts.
 
 ### <b>YouDownloader V2.2.6</b>
->Just download YouTube video from bot, I'm lazy
+>Just download YouTube video in any chat from @SaveYoutubeBot, I'm lazy\n
 >(there's a lot of bugs btw)
+
+### <b>MusicBot V5.4.1</b>
+>Download music in any chat with @mus_vir_bot\n
+>Has many bugs with music select⚠️
+
 ## 🛠 Installation
 ```Heroku
 .dlm https://raw.githubusercontent.com/Nedomyzekant/NedoModules/main/NeuralChat.py
