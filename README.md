@@ -48,6 +48,9 @@ I made them for myself, sharing as-is.
 
 >Has many bugs with music select⚠️
 
+### <b>SteamViewer V0.2.0<b>
+>Steam module - game broadcasting, library, profile, placeholders
+
 ## 🛠 Installation
 ```Heroku
 .dlm https://raw.githubusercontent.com/Nedomyzekant/NedoModules/main/NeuralChat.py
