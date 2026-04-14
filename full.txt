@@ -1,3 +1,4 @@
 NeuralChat
 YouDownloader
 MusicBot
+SteamViewer

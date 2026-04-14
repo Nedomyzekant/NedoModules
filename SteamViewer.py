@@ -1,5 +1,5 @@
 # meta developer: @NedoModules
-
+# я гей
 __version__ = (0, 2, 0)
 from .. import loader, utils
 from ..inline.types import InlineCall

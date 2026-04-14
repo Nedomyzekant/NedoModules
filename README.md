@@ -53,7 +53,7 @@ I made them for myself, sharing as-is.
 
 ## 🛠 Installation
 ```Heroku
-.dlm https://raw.githubusercontent.com/Nedomyzekant/NedoModules/main/NeuralChat.py
+.dlm https://raw.githubusercontent.com/Nedomyzekant/NedoModules/main/module.py
 ```
 <small>other idk lol ᘛ⁐̤ᕐᐷ</small>
 
