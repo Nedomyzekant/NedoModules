@@ -1,4 +1,4 @@
-# meta developer: @NedoModules
+# meta developer: @Nedo_Modules
 # я гей
 __version__ = (0, 2, 0)
 from .. import loader, utils

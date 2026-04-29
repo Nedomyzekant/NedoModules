@@ -1,5 +1,5 @@
 __version__ = (2, 2, 6)
-# meta developer: @NedoModules
+# meta developer: @Nedo_Modules
 
 import asyncio
 import re

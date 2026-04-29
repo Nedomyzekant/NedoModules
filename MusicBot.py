@@ -1,5 +1,5 @@
 __version__ = (5, 4, 1)
-# meta developer: @NedoModules
+# meta developer: @Nedo_Modules
 
 import asyncio
 from .. import loader, utils
@@ -8,7 +8,7 @@ from telethon.tl.functions.messages import GetBotCallbackAnswerRequest, DeleteHi
 
 @loader.tds
 class MusicBot(loader.Module):
-    """Поиск музыки через @mus_vir_bot"""
+    """Поиск музыки через @mus_vir_bot. Есть баги на версиях Heroku 2.x.x"""
     
     strings = {
         "name": "MusicBot",

@@ -1,5 +1,5 @@
 
-# meta developer: @NedoModules
+# meta developer: @Nedo_Modules
 # requires: aiohttp
 
 import asyncio
